@@ -1,0 +1,1 @@
+A CLI Lemonade Stand Simulator for Linux & Windows built in Rust
